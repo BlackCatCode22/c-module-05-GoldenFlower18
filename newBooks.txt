@@ -1,0 +1,4 @@
+The Hobbit,J.R.R. Tolkien,1937,Fiction,978-0-261-10295-3,Fantasy
+A Brief History of Time,Stephen Hawking,1988,Non-Fiction,978-0-553-38016-3,Physics
+Webster's Dictionary,Merriam-Webster,2023,Reference,978-0-877-79929-8,10th
+The Cat in the Hat,Dr. Seuss,1957,Children's,978-0-394-80001-1,3-7
